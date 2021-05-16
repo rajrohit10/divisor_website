@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rajrohit10/divisor_website/static/css/main.d8a149ac.chunk.css",
+    "main.js": "/rajrohit10/divisor_website/static/js/main.4003bf89.chunk.js",
+    "main.js.map": "/rajrohit10/divisor_website/static/js/main.4003bf89.chunk.js.map",
+    "runtime-main.js": "/rajrohit10/divisor_website/static/js/runtime-main.0325a3fd.js",
+    "runtime-main.js.map": "/rajrohit10/divisor_website/static/js/runtime-main.0325a3fd.js.map",
+    "static/js/2.2a4480a4.chunk.js": "/rajrohit10/divisor_website/static/js/2.2a4480a4.chunk.js",
+    "static/js/2.2a4480a4.chunk.js.map": "/rajrohit10/divisor_website/static/js/2.2a4480a4.chunk.js.map",
+    "static/js/3.5b647ea5.chunk.js": "/rajrohit10/divisor_website/static/js/3.5b647ea5.chunk.js",
+    "static/js/3.5b647ea5.chunk.js.map": "/rajrohit10/divisor_website/static/js/3.5b647ea5.chunk.js.map",
+    "index.html": "/rajrohit10/divisor_website/index.html",
+    "static/css/main.d8a149ac.chunk.css.map": "/rajrohit10/divisor_website/static/css/main.d8a149ac.chunk.css.map",
+    "static/js/2.2a4480a4.chunk.js.LICENSE.txt": "/rajrohit10/divisor_website/static/js/2.2a4480a4.chunk.js.LICENSE.txt",
+    "static/media/learningpaths.beafce0c.jpg": "/rajrohit10/divisor_website/static/media/learningpaths.beafce0c.jpg",
+    "static/media/logo.6ce24c58.svg": "/rajrohit10/divisor_website/static/media/logo.6ce24c58.svg",
+    "static/media/workshops.98b20cec.jpg": "/rajrohit10/divisor_website/static/media/workshops.98b20cec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0325a3fd.js",
+    "static/js/2.2a4480a4.chunk.js",
+    "static/css/main.d8a149ac.chunk.css",
+    "static/js/main.4003bf89.chunk.js"
+  ]
+}
