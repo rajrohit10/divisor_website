@@ -1,0 +1,76 @@
+/* NAVBAR */
+.navbar{
+    display: flex;
+    padding: 25px 0;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+.links{
+list-style: none;
+display: flex;
+align-items: center;
+}
+.link{
+    margin:0 10px;
+}
+
+/* .logo-img{
+    width:150px;
+    height:90px;
+
+  
+} */
+/* HEADER-JUMBOTRON */
+
+.header{
+    display: grid;
+    grid-template-columns: 1.5fr 2fr;
+    grid-template-rows: auto;
+    grid-gap: 50px;
+    margin:50px 0 20px 0px;
+}
+
+.header__heading{
+    margin-top:30px
+}
+.header__paragraph{
+    font-size: 15px;
+    width: 85%;
+    margin:20px 0px 35px 0px;
+}
+
+/* LEARNING MODELS */
+.learning-paths{
+    
+
+box-shadow:0 2px 30px var(--box-shadow-secondary);
+
+}
+.mini-bootcamps{
+
+
+    box-shadow:0 2px 30px var(--box-shadow-secondary);
+
+
+}
+.align-self{
+    align-self: center;
+}
+.width-60-per{
+    width: 60%;
+    margin:auto;
+}
+.testimonial{
+    box-shadow:0 2px 30px var(--box-shadow-secondary);
+
+
+}
+.user-image{
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+}
+.border-bottom{
+    border-bottom: 1px solid var(--secondary-color);
+}
